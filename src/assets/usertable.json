@@ -1,0 +1,8 @@
+[
+  {"position": 1, "name": "Rushikesh", "age":29, "hobbies": "Badminton"},
+  {"position": 2,  "name": "Jayesh", "age": 26, "hobbies": "Cricket"},
+  {"position": 3,  "name": "Pramod", "age": 30, "hobbies": "Chess"},
+  {"position": 4,  "name": "Amol", "age": 20, "hobbies": "Travellig"},
+  {"position": 5,  "name": "Sachin", "age": 28, "hobbies": "Singing"},
+  {"position": 6,  "name": "Ganesh", "age": 21, "hobbies": "Drawing"}
+  ]

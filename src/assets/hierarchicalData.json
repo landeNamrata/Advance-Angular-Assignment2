@@ -1,0 +1,43 @@
+[
+  {
+    "name": "Car",
+    "children": [
+      {
+        "name": "BMW"
+      },
+      {
+        "name": "Porsche"
+      },
+      {
+        "name": "Audi"
+      }
+    ]
+  },
+  {
+    "name": "Bikes",
+    "children": [
+      {
+        "name": "Honda",
+        "children": [
+          {
+            "name": "Activa"
+          },
+          {
+            "name": "Deo"
+          }
+        ]
+      },
+      {
+        "name": "Bajaj",
+        "children": [
+          {
+            "name": "Discover"
+          },
+          {
+            "name": "Avenger"
+          }
+        ]
+      }
+    ]
+  }
+]
